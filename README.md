@@ -28,9 +28,9 @@ We provide two datasets: [LastFM](https://grouplens.org/datasets/hetrec-2011/) a
 
 # Environment
 
-Please install Python 3.8.0, PyTorch 1.7.1, and other requirements as follows:
-    `pip install -r requirements.txt`
+Please install Python 3.8.0, PyTorch 1.7.1, and other requirements as follows: \
+`pip install -r requirements.txt`
 
-# Run **CSRec** on the LastFM dataset:
+# Run **CSRec** on the LastFM dataset: 
 
-    `python main.py --model=CSRec --dataset=lastfm --decay=1e-4 --lr=0.001 --layer=3 --seed=2020 --topks="[10,20]" --recdim=64 --bpr_batch=2048`
+`python main.py --model=CSRec --dataset=lastfm --decay=1e-4 --lr=0.001 --layer=3 --seed=2020 --topks="[10,20]" --recdim=64 --bpr_batch=2048`
