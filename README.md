@@ -17,7 +17,7 @@ Experimental results validate the effectiveness of our method, particularly for 
     <img src="./Docs/interest.png" alt="CInterest-inconsistency alignment by mutual distillation and dynamic routing." style="width:75%; height:auto; display: inline-block;">
 </div>
 
-*Figure 1: Interest-inconsistency alignment by mutual distillation and dynamic routing.*
+*Figure 2: Interest-inconsistency alignment by mutual distillation and dynamic routing.*
 
 
 ---
